@@ -16,10 +16,10 @@ Depois disso, siga os passos:
 1.     git clone linkDoProjeto
 1.     cd (para a pasta criada com o projeto)
 1. Eu instalei o **yarn** globalmente (o yarn é um gerenciador de pacotes que a galera usa pra poder trabalhar com projetos de outras pessoas em lugares diferentes. Acho que ele faz com que a transição de um ambiente pra outro seja mais tranquila) com esse código:
-  -     npm install --global yarn
+  1. npm install --global yarn
 1.     yarn
 1. Para inicializar o yarn na pasta do projeto forkado
-  -     yarn run
-  -     dev
-  - (não tenho certeza se usar yarn run dev direto funciona ou yarn dev, não cheguei a testar).
+  1.     yarn run
+  1.     dev
+  1. (não tenho certeza se usar yarn run dev direto funciona ou yarn dev, não cheguei a testar).
 1. A aplicação deve estar rodando em [localhost](http://localhost:8080/).
