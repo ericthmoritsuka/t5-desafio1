@@ -11,7 +11,7 @@ Nesse desafio o objetivo e usar o hook useState para:
 Para começar, você precisa acessar o link do repositório do projeto [Repositório do Projeto](https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react).
 
 Depois disso, siga os passos:
-1 - faça um fork do projeto;
-1 - copie o link do projeto 'forkado';
-1 -     git clone linkDoProjeto
-1 -     cd    para a pasta criada com o projeto
+1. faça um fork do projeto;
+1. copie o link do projeto 'forkado';
+1.     git clone linkDoProjeto
+1.     cd    para a pasta criada com o projeto
